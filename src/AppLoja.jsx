@@ -9,9 +9,6 @@ function AppJogos() {
           <div class="icones-header1">
             <a href="perfil.html"><img src="icons/person-circle.svg" alt="Ícone do perfil" height="50" /></a>
           </div>
-          <div class="icones-header2">
-            <a href="jogos.html"><img src="icons/bell-fill.svg" /></a>
-          </div>
         </div>
 
         <h1>Loja</h1>
@@ -29,11 +26,7 @@ function AppJogos() {
                 <img src="icons/person-fill.svg" alt="person-fill" />
               </a>
             </li>
-            <li>
-              <a href="jogos.html">
-                <img src="icons/controller.svg" alt="controller" />
-              </a>
-            </li>
+
             <li>
               <a href="Loja.html">
                 <img src="icons/joystick.svg" alt="joystick" />
