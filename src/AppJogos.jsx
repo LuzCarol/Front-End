@@ -1,6 +1,6 @@
 
 
-function App() {
+function AppJogos() {
 
   return (
     <>
@@ -14,8 +14,7 @@ function App() {
           </div>
         </div>
 
-        <h1>Início</h1>
-
+        <h1>Jogos</h1>
       </header>
       <div class="menu">
         <div className="menu">
@@ -52,4 +51,4 @@ function App() {
   )
 }
 
-export default App
+export default AppJogos

@@ -12,7 +12,11 @@ ul {
 }
 li {
   display: block;
+<<<<<<< HEAD
   margin-bottom: 113px; /* Adiciona espaço abaixo de cada item */
+=======
+  margin-bottom: 63px; /* Adiciona espaço abaixo de cada item */
+>>>>>>> af4c854b53289c79d6464073509ab469b2e183f5
   position: relative;
 }
 img {
